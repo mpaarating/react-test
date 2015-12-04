@@ -9,8 +9,8 @@ class MessageList extends React.Component{
     super(props);
     this.state = {
       messages: [
-        'UH OH, how are you?',
-        'I yaaaa good'
+        'Oh hi, how are you?',
+        'I am good, you?'
       ]
     };
   }
